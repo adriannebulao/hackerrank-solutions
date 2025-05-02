@@ -1,6 +1,6 @@
 ## HackerRank Problem Solutions
 
-This repository contains my solutions to various problems from [HackerRank](https://www.hackerrank.com), implementd in **Java**.
+This repository contains my solutions to various problems from [HackerRank](https://www.hackerrank.com), implemented in **Java**.
 
 ### Topics covered
 

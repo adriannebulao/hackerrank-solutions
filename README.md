@@ -4,7 +4,9 @@ This repository contains my solutions to various problems from [HackerRank](http
 
 ### Topics covered
 
-- Java (e.g., basic syntax, OOP, Collections Framework, etc.)
+- Core Java
+- Algorithms
+- Data Structures
 
 ### Structure
 

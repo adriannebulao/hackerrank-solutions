@@ -1,4 +1,4 @@
-## Diagonal Difference
+## Flipping the Matrix
 
 HackerRank problem: https://www.hackerrank.com/challenges/flipping-the-matrix/problem
 
